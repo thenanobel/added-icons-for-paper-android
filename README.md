@@ -5,6 +5,7 @@
 | ![BeHe Keyboard](icons/behe-keyboard.png) | BeHe Keyboard | `com.vlath.keyboard` | `behe-keyboard.svg` |
 | ![Clean Status Bar](icons/clean-status-bar.png) | Clean Status Bar | `com.emmaguy.cleanstatusbar` | `clean-status-bar.svg` |
 | ![ConnectBot](icons/connectbot.png) | ConnectBot  | `org.connectbot` | `connectbot.svg` |
+| ![Easer](icons/easer.png) | Easer | `ryey.easer` | `easer.svg` |
 | ![Editor](icons/editor.png) | Editor  | `org.billthefarmer.editor` | `editor.svg` |
 | ![F-Droid](icons/fdroid.png) | F-Droid | `org.fdroid.fdroid` | `fdroid.svg` |
 | ![Firefox Focus](icons/firefox-klar.png) | Firefox Focus | `org.mozilla.focus` | `firefox-klar.svg` |
